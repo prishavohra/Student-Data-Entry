@@ -1,5 +1,3 @@
-# Student-Data-Entry
-
 # Student Data Entry System (Java)
 
 This project is a **Java-based student data entry system** designed to handle basic operations while demonstrating custom exception handling. It's clean, modular, and built with learning in mind!
